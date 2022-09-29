@@ -1,0 +1,35 @@
+*{
+    background-color: black;
+    color: white;
+    
+}
+
+.container{
+    text-align: center;
+    border: blue;
+    margin-top: 200px;
+    
+}
+
+label{
+    font-size: 20px;
+    font-family: 'Times New Roman', Times, serif;
+    
+}
+input{
+    border-color: black;
+    box-shadow: 0px 5px 20px white;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 20px;
+}
+
+.button {
+    background-color: black;
+    box-shadow: 0px 5px 20px white;
+    font-weight: bold;
+    color: #ffff;
+    height: auto;
+    width: 200px;
+    padding: 10px;
+    border-radius: 5px;
+}
